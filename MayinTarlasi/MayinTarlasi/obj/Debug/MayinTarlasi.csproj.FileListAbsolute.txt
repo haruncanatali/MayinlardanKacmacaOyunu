@@ -1,0 +1,44 @@
+C:\Users\Acer\source\repos\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe.config
+C:\Users\Acer\source\repos\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe
+C:\Users\Acer\source\repos\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.pdb
+C:\Users\Acer\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.Form1.resources
+C:\Users\Acer\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.Properties.Resources.resources
+C:\Users\Acer\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.exe
+C:\Users\Acer\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.pdb
+C:\Users\Acer\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.yardimForm.resources
+C:\Users\Acer\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.skorlarForm.resources
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe.config
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.pdb
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csprojAssemblyReference.cache
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.Form1.resources
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.Properties.Resources.resources
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.skorlarForm.resources
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.yardimForm.resources
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.GenerateResource.cache
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.exe
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.pdb
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\Proje 2\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe.config
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\Proje 2\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\Proje 2\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.pdb
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\Proje 2\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csprojAssemblyReference.cache
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\Proje 2\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.Form1.resources
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\Proje 2\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.Properties.Resources.resources
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\Proje 2\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.skorlarForm.resources
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\Proje 2\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.yardimForm.resources
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\Proje 2\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.GenerateResource.cache
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\Proje 2\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.exe
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\Proje 2\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.pdb
+F:\Atatürk Üniversitesi Görsel Programlama Ödevleri\Proje 2\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.CoreCompileInputs.cache
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe.config
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.pdb
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csprojAssemblyReference.cache
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.Form1.resources
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.Properties.Resources.resources
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.GenerateResource.cache
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.CoreCompileInputs.cache
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.exe
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.pdb
