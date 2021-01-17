@@ -1,6 +1,14 @@
-# Mayinlardan Kaçmaca Oyunu
+# Mayınlardan Kaçmaca Oyunu
 
 Bu proje yılan oyunu ve mayın tarlası karışımı bir C# WinForm oyunudur.
+
+
+## Oyun Kuralları
+1) Oyunun kolay,orta,zor olamak üzere 3 seviyesi vardır.Seviyelere göre mayın sayısı değişkenlik göstermektedir.
+2) Oyunu kazanmanız için hiçbir mayına rast gelmeden sağ üst ve sol üst köşelerin ikisine de gitmeniz lazım.
+
+##### iyi eğlenceler...
+
 
 ## Projeden Görüntüler
 
